@@ -20,3 +20,5 @@ The statistical test implemented was Welch's T-Test. Welch's T-Test is used to g
 
 ![long_short_golf_scoring](https://user-images.githubusercontent.com/59183694/119506307-67f4a480-bd33-11eb-9498-3573c5588443.png)
 
+## Conclusions
+It was shown that the short game is not more important in terms of lowering one's score. However, it is important to note that perhaps the short game is more difficult to master, hence the preoccupation with mastering the short game. 
